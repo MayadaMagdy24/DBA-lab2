@@ -64,3 +64,5 @@
 - make your personal Operating system user to connect locally with authentication as sysdba.
 ![Screenshot (997)](https://user-images.githubusercontent.com/93229250/231654691-0040e02d-1c64-41d6-be96-bcf105bd8a1f.png)
 ![Screenshot (995)](https://user-images.githubusercontent.com/93229250/231654570-4fda8cbb-a85d-4835-b717-7aaac22fbf5e.png)
+![Screenshot (1033)](https://user-images.githubusercontent.com/93229250/231938565-f3aa4162-4c0d-4655-8284-7456581e5b21.png)
+
