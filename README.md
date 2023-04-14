@@ -37,7 +37,7 @@
 
 - Show the value of parameter undo_retention then change the value of it to be 3 minutes and gurantee this duration.
 ![Screenshot (979)](https://user-images.githubusercontent.com/93229250/231621712-c25ab4be-c37a-4abb-abba-b126135500cc.png)
-![Screenshot (981)](https://user-images.githubusercontent.com/93229250/231621891-67778e48-8e58-4bd6-b763-982270a94a04.png)
+![Screenshot (1031)](https://user-images.githubusercontent.com/93229250/231913417-ab00bab1-6b3e-4f78-86b1-f06439a70282.png)
 
 - make this new created tablespace the default tablespace
 ![Screenshot (983)](https://user-images.githubusercontent.com/93229250/231628232-a3696a9e-fd64-44bf-b939-84fb424679d3.png)
@@ -49,7 +49,7 @@
 ![Screenshot (987)](https://user-images.githubusercontent.com/93229250/231632644-bce713ca-9013-4a4a-ab93-7ec6b7096b86.png)
 
 - resize up the datafile of ITI tablespace from 50MB to 100MB
-![Screenshot (987)](https://user-images.githubusercontent.com/93229250/231632672-9526c5d2-2977-470c-93e1-97343ae4634e.png)
+![Screenshot (988)](https://user-images.githubusercontent.com/93229250/231914345-f8940a55-c7ed-4080-a178-7fdcab4b2f74.png)
 
 - show data files names, thier tablespaces, their size, their status using view "dba_data_files".
 ![Screenshot (989)](https://user-images.githubusercontent.com/93229250/231632689-d4c6ea9d-0ec8-4855-bc74-3b303f401249.png)
